@@ -33,7 +33,7 @@
   - [5.1 系统使用说明](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md)
   - [5.2 软件使用说明](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
 
-    - [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.2-myPanel/1-panel-UserGuide.md)
+    - [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.2-myPanel/Panel-使用指南.md)
     - [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/README.md)
 
       - [机型选择](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/0-community/1-robot_choose.md)
