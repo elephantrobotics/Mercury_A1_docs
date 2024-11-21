@@ -73,6 +73,7 @@
     * [2 Introduction to API](./6-SDKDevelopment/6.1-Python/6.1.2-ApplicationBasePython.md)
     * [3 TCP/IP Control](./6-SDKDevelopment/6.1-Python/6.1.3-TCPIP.md)
     * [4 Gripper Control](./6-SDKDevelopment/6.1-Python/6.1.4-gripper_en.md)
+    * [5 Robot Exception Handling](./6-SDKDevelopment/6.1-Python/6.1.5-ExceptionHandling.md)
     <!-- * [4 Drag to teach](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/4_drag.md) -->
     <!-- * [5 Handle Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/5_Handle_control.md) -->
     <!-- * [6 Videos and Codes for Display](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/5_example.md) -->
