@@ -92,17 +92,17 @@
     * [2 build](12-ApplicationBaseCPlus/12.2-build.md)
     * [3 API](12-ApplicationBaseCPlus/12.3-API.md)
     * [4 example](12-ApplicationBaseCPlus/12.4-example.md)
+  * [6.5 Development based on communication protocol packets](6-SDKDevelopment/6.4-Communication.md)
 
 * [7 Examples of Robots Using](7-ExamplesRobotsUsing/7-ExamplesRobotsUsing.md)
 
 * [8 Documents Download](8-FilesDownload/README.md)
-
   * [8.1 Productin formation](8-FilesDownload/8.1-Productinformation.md)
   * [8.2 Product Drawings](8-FilesDownload/8.2-ProductDrawings.md)
   * [8.3 Software and Source Code](8-FilesDownload/8.3-SoftwareDocumentation.md)
   * [8.4 System Information](8-FilesDownload/8.4-SystemInformation.md)
   * [8.5 Publicity Material](/8-FilesDownload/8.5-PublicityMaterial.md)
-
+  
 * [9 About Us](9-AboutUs/9-AboutUs.md)
 
   * [9.1 Elephant Robotics](9-AboutUs/9.1-company.md)
