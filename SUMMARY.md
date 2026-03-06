@@ -102,7 +102,8 @@
   - [8.3 软件以及开源代码](8-FilesDownload/8.3-SoftwareDocumentation_zh.md)
   - [8.4 系统镜像资料](8-FilesDownload/8.4-SystemInformation_zh.md)
   - [8.5 宣传材料](/8-FilesDownload/8.5-PublicityMaterial.md)
-  
+
 - [9 关于我们](9-AboutUs/9-AboutUs.md)
   - [9.1 大象机器人](9-AboutUs/9.1-company.md)
-  - [9.2 联系我们](9-AboutUs/9.2-contact.md)
+  - [9.2 如何阅读](9-AboutUs/9.3-how_to_read.md)
+  - [9.3 联系我们](9-AboutUs/9.2-contact.md)
