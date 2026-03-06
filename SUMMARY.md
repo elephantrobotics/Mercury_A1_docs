@@ -106,4 +106,5 @@
 * [9 About Us](9-AboutUs/9-AboutUs.md)
 
   * [9.1 Elephant Robotics](9-AboutUs/9.1-company.md)
-  * [9.2 Contact us](9-AboutUs/9.2-contact.md)
+  * [9.2 How to Read](9-AboutUs/9.3-how_to_read.md)
+  * [9.3 Contact us](9-AboutUs/9.2-contact.md)
